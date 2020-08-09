@@ -10,22 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd39e77c-d852-4383-b00b-34a1ed5b4f5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/app.9b2dcb04.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.674f50d2.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.af7ae505.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.b06871f2.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.fee66e71.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fontawesome-webfont.acf3dcb7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.c2a2dd50.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.c2a2dd50.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-a3b3f726.a2468c8b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-a3b3f726.a2468c8b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.5aed137a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.5aed137a.js.map" beforeDir="false" />
-    </list>
+    <list default="true" id="cd39e77c-d852-4383-b00b-34a1ed5b4f5a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596790094328</updated>
       <workItem from="1596790095625" duration="261000" />
-      <workItem from="1596790861542" duration="23000" />
+      <workItem from="1596790861542" duration="104000" />
     </task>
     <servers />
   </component>
